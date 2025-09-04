@@ -8,5 +8,5 @@
 ## 🗓️ Keterangan Praktikum
 | Tanggal     | Pertemuan Ke- | Materi                                                                 | Tugas                                      |
 |-------------|---------------|------------------------------------------------------------------------|--------------------------------------------|
-| 4 September 2025   | 1             | Pengenalan Mobile Programming dan Setup Lingkungan | [Tugas1.dart](https://github.com/zakimuis28/zakimuis28/blob/main/Tugas1.dart) |
+| 4 September 2025   | 1             | Pengenalan Mobile Programming dan Setup Lingkungan | [Tugas 1](https://github.com/zakimuis28/zakimuis28/blob/main/Tugas1.dart) |
 | 11 September 2025   | 2             | Widget Row dan Column |  |
