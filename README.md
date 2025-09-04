@@ -8,5 +8,5 @@
 ## 🗓️ Keterangan Praktikum
 | Tanggal     | Pertemuan Ke- | Materi                                                                 | Tugas                                      |
 |-------------|---------------|------------------------------------------------------------------------|--------------------------------------------|
-| 4 September 2025   | 1             | Pengenalan Mobile Programming dan Setup Lingkungan |  |
+| 4 September 2025   | 1             | Pengenalan Mobile Programming dan Setup Lingkungan | Tugas1.dart |
 | 11 September 2025   | 2             | Widget Row dan Column |  |
