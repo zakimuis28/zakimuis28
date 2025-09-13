@@ -8,7 +8,7 @@
 ### 🗓️ Jadwal Praktikum : Kamis, 14.00 - 15.40 
 | Tanggal           | Pertemuan Ke- | Modul Ke- | Materi                                             | Tugas                                                                 | Laporan                                                                 |
 |-------------------|---------------|-------|----------------------------------------------------|----------------------------------------------------------------------|------------------------------------------------------------------------|
-| 4 September 2025  | 01             | 01     | Pengenalan Mobile Programming dan Setup Lingkungan |                                                                      | [Laporan 1]() |
+| 4 September 2025  | 01             | 01     | Pengenalan Mobile Programming dan Setup Lingkungan | [Tugas 1](https://github.com/zakimuis28/PrakMobile/tree/main/pengujian) | [Laporan 1]() |
 | 4 September 2025 | 01             | 02     | Widget Row dan Column                              |                                                                      | [Laporan 2]() |
 | 11 September 2025 | 02             | 03     | Widget Row dan Column                              |                                                                      | [Laporan 2]() |
 | 11 September 2025 | 02             | 04     | Widget Row dan Column                              |                                                                      | [Laporan 2]() |
