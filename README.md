@@ -9,9 +9,9 @@
 | Tanggal           | Pertemuan Ke- | Modul Ke- | Materi                                             | Tugas                                                                 | Laporan                                                                 |
 |-------------------|---------------|-------|----------------------------------------------------|----------------------------------------------------------------------|------------------------------------------------------------------------|
 | 4 September 2025  | 01             | 01     | Pengenalan Mobile Programming dan Setup Lingkungan | [Tugas 1](https://github.com/zakimuis28/PrakMobile/tree/main/pengujian) | [Laporan 1]() |
-| 4 September 2025 | 01             | 02     | Widget Row dan Column                              |                                                                      | [Laporan 2]() |
-| 11 September 2025 | 02             | 03     | Widget Row dan Column                              |                                                                      | [Laporan 2]() |
-| 11 September 2025 | 02             | 04     | Widget Row dan Column                              |                                                                      | [Laporan 2]() |
+| 4 September 202 5 | 01             | 02     | Widget Row dan Column                              | [Tugas 2](https://github.com/zakimuis28/PrakMobile/tree/main/row_and_column) | [Laporan 2]() |
+| 11 September 2025 | 02             | 03     | Pengaturan Layout Row dan Column di Flutter        | [Tugas 3]() | [Laporan 2]() |
+| 11 September 2025 | 02             | 04     | Widget Flexible dan Expanded                       | [Tugas 4]() | [Laporan 2]() |
 
 <!--
 **zakimuis28/zakimuis28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
