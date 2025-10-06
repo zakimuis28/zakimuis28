@@ -13,9 +13,11 @@
 | 11 September 2025 | 2             | 3     | Pengaturan Layout Row dan Column di Flutter        | [Tugas_3](https://github.com/zakimuis28/Pemrograman_Mobile/blob/main/alignment/lib/main.dart) | [Laporan_3](https://drive.google.com/file/d/1K0680c54got4Pe5ATUnLUla-x8R08_Ad/view?usp=drive_link) |
 | 11 September 2025 | 2             | 4     | Widget Flexible dan Expanded                       | [Tugas_4](https://github.com/zakimuis28/Pemrograman_Mobile/blob/main/music_player_ui/lib/main.dart) | [Laporan_4](https://drive.google.com/file/d/1IgxEyGK_vLNDREdYRyUaeGIi_2oXpWwB/view?usp=drive_link) |
 | 18 September 2025 | 3             | 5     | Widget SizedBox, Spacer, dan Card                                  | [Tugas_5](https://github.com/zakimuis28/Pemrograman_Mobile/tree/main/demo_music_card) | [Laporan_5](https://drive.google.com/file/d/1LmKavmn1r4tTcUql1AwHnuBq79QShSW7/view?usp=drive_link) |
-| 18 September 2025 | 3             | 6     | Widget GridView, ListView, GridView.builder, dan ListView.builder  | [Tugas_6]() | [Laporan_6]() |
-| 25 September 2025 | 4             | 7    | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route  | [Tugas_7]() | [Laporan_7]() |
-| 25 September 2025 | 4             | 8     | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route  | [Tugas_8]() | [Laporan_8]() |
+| 18 September 2025 | 3             | 6     | Widget GridView, ListView, GridView.builder, dan ListView.builder  | [Tugas_6](https://github.com/zakimuis28/Pemrograman_Mobile/tree/main/demo_gridview_builder/lib) | [Laporan_6]() |
+| 25 September 2025 | 4             | 7    | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route  | [Tugas_7](https://github.com/zakimuis28/Pemrograman_Mobile/tree/main/demo_navigasi/lib) | [Laporan_7]() |
+| 25 September 2025 | 4             | 8     | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route  | [Tugas_8](https://github.com/zakimuis28/Pemrograman_Mobile/tree/main/navigasi_argumen/lib) | [Laporan_8]() |
+| 2 September 2025 | 5             | 9     | StatefulWidget | [Tugas_9](https://github.com/zakimuis28/Pemrograman_Mobile/tree/main/tasbih_app/lib) | [Laporan_9]() |
+| 9 September 2025 | 6             | 10     | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter| [Tugas_10](https://github.com/zakimuis28/Pemrograman_Mobile/tree/main/game_app/lib) | [Laporan_10]() |
 
 <!--
 **zakimuis28/zakimuis28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
