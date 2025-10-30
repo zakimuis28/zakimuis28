@@ -18,6 +18,7 @@
 | 25 September 2025 | 04             | 08     | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route  | [Tugas_8](https://github.com/zakimuis28/Pemrograman_Mobile/tree/main/navigasi_argumen/lib) | [Laporan_8]() |
 | 02 September 2025 | 05             | 09     | StatefulWidget | [Tugas_9](https://github.com/zakimuis28/Pemrograman_Mobile/tree/main/tasbih_app/lib) | [Laporan_9]() |
 | 09 September 2025 | 06             | 10     | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter| [Tugas_10](https://github.com/zakimuis28/Pemrograman_Mobile/tree/main/game_app/lib) | [Laporan_10]() |
+| 23 Oktober 2025 | 06             | -    | UTS| [Project - Aplikasi Al-Qur'an Digital](https://github.com/zakimuis28/quran_app) | [Laporan_UTS](https://drive.google.com/file/d/1Ufkt_1zZTGFjROSkT2k4ZbLJ5OxoHNvV/view?usp=sharing) |
 
 <!--
 **zakimuis28/zakimuis28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
