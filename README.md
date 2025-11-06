@@ -20,7 +20,7 @@
 | 09 Oktober 2025 | 06             | 10     | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter| [Tugas_10](https://github.com/zakimuis28/Pemrograman_Mobile/tree/main/game_app) | [Laporan_10]() |
 | 16 Oktober 2025 | 07             | 11     | Manajemen State dengan GetX| [Tugas_11](https://github.com/zakimuis28/Pemrograman_Mobile/tree/main/tasbih_getx) | [Laporan_10]() |
 | 23 Oktober 2025 | 08             | -      | UTS| [Project - Aplikasi Al-Qur'an Digital](https://github.com/zakimuis28/quran_app) | [Laporan_UTS](https://drive.google.com/file/d/1Ufkt_1zZTGFjROSkT2k4ZbLJ5OxoHNvV/view?usp=sharing) |
-| 6 Oktober 2025  | 07              | 12     | Akses Lokasi dengan GPS di Flutter| [Tugas_11](https://github.com/zakimuis28/Pemrograman_Mobile/tree/main/lokasi_flutter) | [Laporan_10]() |
+| 6 Oktober 2025  | 07              | 12     | Akses Lokasi dengan GPS di Flutter| [Tugas_12](https://github.com/zakimuis28/Pemrograman_Mobile/tree/main/lokasi_flutter) | [Laporan_12]() |
 
 <!--
 **zakimuis28/zakimuis28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
