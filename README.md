@@ -18,7 +18,7 @@
 | 25 September 2025  | 04             | 08     | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route  | [Tugas_8](https://github.com/zakimuis28/Pemrograman_Mobile/tree/main/navigasi_argumen) | [Laporan_8]() |
 | 02 Oktober 2025    | 05             | 09     | StatefulWidget | [Tugas_9](https://github.com/zakimuis28/Pemrograman_Mobile/tree/main/tasbih_app) | [Laporan_9]() |
 | 09 Oktober 2025    | 06             | 10     | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter| [Tugas_10](https://github.com/zakimuis28/Pemrograman_Mobile/tree/main/game_app) | [Laporan_10]() |
-| 16 Oktober 2025    | 07             | 11     | Manajemen State dengan GetX| [Tugas_11](https://github.com/zakimuis28/Pemrograman_Mobile/tree/main/tasbih_getx) | [Laporan_11](https://drive.google.com/file/d/1Gy0-4imgpSsT2CECE5fhiDW5PuUMhnj5/view?usp=sharing) |
+| 16 Oktober 2025    | 07             | 11     | Manajemen State dengan GetX| [Tugas_11](https://github.com/zakimuis28/Pemrograman_Mobile/tree/main/tasbih_getx) | [Laporan_11](https://docs.google.com/document/d/12Dq3K4f7cx7CfJ1KlRvFZT0GjcoeLczC/edit?usp=drive_link&ouid=112076595677913220101&rtpof=true&sd=true) |
 | 23 Oktober 2025    | 08             | -      | UTS| [Project - Aplikasi Al-Qur'an Digital](https://github.com/zakimuis28/quran_app) | [Laporan_UTS](https://drive.google.com/file/d/1Ufkt_1zZTGFjROSkT2k4ZbLJ5OxoHNvV/view?usp=sharing) |
 | 6 Oktober 2025     | 07             | 12     | Akses Lokasi dengan GPS di Flutter| [Tugas_12](https://github.com/zakimuis28/Pemrograman_Mobile/tree/main/lokasi_flutter) | [Laporan_12]() |
 
